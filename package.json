@@ -15,6 +15,7 @@
     "kraken"
   ],
   "author": "Aria Stewart <ariastewart@paypal.com>",
+  "contributors": "Ashok <coderatlabs@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/krakenjs/kraken-config-enumerator/issues"
