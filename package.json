@@ -1,0 +1,30 @@
+{
+  "name": "kraken-config-enumerator",
+  "version": "1.0.0",
+  "description": "A tool to enumerate kraken configs for error checking and other tooling",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krakenjs/kraken-config-enumerator.git"
+  },
+  "keywords": [
+    "confit",
+    "kraken"
+  ],
+  "author": "Aria Stewart <ariastewart@paypal.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/krakenjs/kraken-config-enumerator/issues"
+  },
+  "homepage": "https://github.com/krakenjs/kraken-config-enumerator#readme",
+  "dependencies": {
+    "express": "^4.13.0",
+    "kraken-js": "^2.0.0-rc.1"
+  },
+  "devDependencies": {
+    "tap": "^1.3.1"
+  }
+}
