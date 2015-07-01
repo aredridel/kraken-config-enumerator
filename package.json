@@ -1,6 +1,6 @@
 {
   "name": "kraken-config-enumerator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A tool to enumerate kraken configs for error checking and other tooling",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   ],
   "author": "Aria Stewart <ariastewart@paypal.com>",
   "contributors": [
-      "Ashok <coderatlabs@gmail.com>"
+    "Ashok <coderatlabs@gmail.com>"
   ],
   "license": "Apache-2.0",
   "bugs": {
